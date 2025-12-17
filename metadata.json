@@ -1,0 +1,7 @@
+{
+  "name": "ai 图片 logo去除 2.0 ",
+  "description": "An AI-driven lightweight image processing tool for removing watermarks, adding smart text watermarks, and enhancing images with privacy and efficiency.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
